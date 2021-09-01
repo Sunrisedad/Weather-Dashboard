@@ -27,6 +27,6 @@
 * FAVICON
 * OPEN WEATHER API
 
-
+* Live URL: https://sunrisedad.github.io/Weather-Dashboard/
 
 ![image](https://user-images.githubusercontent.com/84816623/131725084-d6d3cf80-a0e7-4c37-854a-43f261c2f054.png)
