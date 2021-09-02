@@ -24,7 +24,6 @@
 * BOOTSTRAP
 * JAVASCRIPT
 * JQUERY
-* FAVICON
 * OPEN WEATHER API
 
 * Live URL: https://sunrisedad.github.io/Weather-Dashboard/
